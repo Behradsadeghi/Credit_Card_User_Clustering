@@ -8,4 +8,3 @@ a 6-month period, utilizing 18 behavioral variables for analysis.
 four clusters, analyzing their behaviors and identifying cluster-specific characteristics
 
 
-## Dataset
